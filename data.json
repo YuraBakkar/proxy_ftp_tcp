@@ -1,0 +1,10 @@
+{
+    "ftp": 2100,
+    "sftp": 9900,
+    "app": 3000,
+    "ftpusername": "user1",
+    "ftppassword": "password1",
+    "ftpskey": "app.key",
+    "ftpscert": "app.crt",
+    "ftpfolder": "/home/yura/ftp/"
+}
